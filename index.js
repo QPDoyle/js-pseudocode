@@ -17,4 +17,10 @@ Player End:
                     Score 0 -> user miss, 
 Mole Object End:
     Using a random timer toggle the status of the moles "up or down"
+        If User Click
+            If mole in hole
+                mole down
+            Else
+                Mole status unchanged
+    Timer Reset
 */
